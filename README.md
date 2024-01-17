@@ -14,3 +14,4 @@ For this, I have being required to fulfill a range of tasks that align with the 
 
 Data quality assessment involves evaluating the reliability, accuracy, consistency, and completeness of data. It aims to ensure that the data used for analysis, reporting, or decision-making is trustworthy and meets certain standards. I used the Power query for the Data Quality assessment, I was able to identify the following.
 
+
