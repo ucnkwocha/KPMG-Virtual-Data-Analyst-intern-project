@@ -14,5 +14,11 @@ For this, I have being required to fulfill a range of tasks that align with the 
 
 Data quality assessment involves evaluating the reliability, accuracy, consistency, and completeness of data. It aims to ensure that the data used for analysis, reporting, or decision-making is trustworthy and meets certain standards. I used the Power query for the Data Quality assessment, I was able to identify the following.
 
-# Customer Address Dataset
+# Customer Address Data Quality assessment
 The values were consistent, with no empty row or error in the relevant columns. I removed the empty columns that were present when the dataset was imported into power BI.
+
+<img width="636" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/1e89a92c-2d6a-45df-90b1-3b754505712e">
+
+# Transaction Data quality assessment
+
+
