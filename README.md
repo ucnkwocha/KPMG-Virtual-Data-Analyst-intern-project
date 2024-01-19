@@ -19,6 +19,6 @@ The values were consistent, with no empty row or error in the relevant columns. 
 
 <img width="636" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/1e89a92c-2d6a-45df-90b1-3b754505712e">
 
-# Transaction Data quality assessment
+# Transaction Data quality assessment 
 
 
