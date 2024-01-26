@@ -1,4 +1,4 @@
-<img width="633" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/c0813068-8776-4a8b-ac72-7e630be758d5"># KPMG-Virtual-Data-Analyst-intern-project
+# KPMG-Virtual-Data-Analyst-intern-project
 This project is aimed at identifying all data quality issues, and developing a dash board to showcase the 1000 target customers.
 
 ![image](https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/327c8ece-14b1-4ee9-8529-58bce5c0f9ff)
@@ -24,10 +24,25 @@ The values are consistent, with no empty row or error in the relevant columns. I
 # Transaction Data quality assessment 
 The Transactions table encompasses "transaction_id", "product_id", "customer_id", "transaction_date", "online_order", "order_status", "brand", "product_line", "product_class", "product_size", "list_price", "standard_cost", "product_first_sold_date"
 
-The columns below has inconsistent values, with empty rows.
+The columns below has inconsistent values, with empty rows. 
+I cleaned the empty rows by using replace value option, to replace the empty with "Null".
+
 <img width="633" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/7b82f31e-833a-40ce-91fc-8e3caee9d3ac">
 
 <img width="609" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/e9799e6c-e47a-4d96-8fc5-4375968dc6e1">
+
+# Customer Demopgrapic Data quality assessment
+The Customer Demographic table contains columns which includes details such as name, gender, purchases from the past three years, date of birth, job information, wealth segment, deceased status, car ownership, and tenure.
+
+The Customer demographic table conatins some inconsistent values and empty rows. I also cleaned the empty rows by using replace value option, to replace the empty with "Null" while the empty rows(null or unknown dates) in the DOB column was replaced with '01/01/1900' as default.
+
+<img width="638" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/cd4f69d7-699f-4916-af81-bad1daf2a25c">
+<img width="623" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/afd28e0e-26d3-45a8-8657-c1352185ee37">
+<img width="493" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/59febbdd-76d9-49c3-a3d1-8f30c814023d">
+
+
+
+
 
 
 
