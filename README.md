@@ -37,7 +37,9 @@ The Customer Demographic table contains columns which includes details such as n
 The Customer demographic table conatins some inconsistent values and empty rows. I also cleaned the empty rows by using replace value option, to replace the empty with "Null" while the empty rows(null or unknown dates) in the DOB column was replaced with '01/01/1900' as default.
 
 <img width="638" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/cd4f69d7-699f-4916-af81-bad1daf2a25c">
+
 <img width="623" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/afd28e0e-26d3-45a8-8657-c1352185ee37">
+
 <img width="493" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/59febbdd-76d9-49c3-a3d1-8f30c814023d">
 
 
