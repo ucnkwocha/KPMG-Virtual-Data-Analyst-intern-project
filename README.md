@@ -17,9 +17,14 @@ Data quality assessment involves evaluating the reliability, accuracy, consisten
 # Customer Address Data Quality assessment
 Customer Addresses table contains "customer_id", "address", "postcode", "state", "country", "property_valuation"
 
-The values are consistent, with no empty row or error in the relevant columns. I removed the empty columns that were present when the dataset was imported into power BI.
+The values are complete, with no empty row or error in the relevant columns. I removed the empty columns that were present when the dataset was imported into power BI.
 
 <img width="636" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/1e89a92c-2d6a-45df-90b1-3b754505712e">
+To ensure consistency in the state column, i replaced "North south wales" with "NSW " and i also replaced "Victoria" with VIC.
+
+<img width="255" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/e71dced6-7c50-4560-a57b-6dd930d48049">
+<img width="257" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/30b19074-cae5-4c73-8faf-e03a17cf62f6">
+
 
 # Transaction Data quality assessment 
 The Transactions table encompasses "transaction_id", "product_id", "customer_id", "transaction_date", "online_order", "order_status", "brand", "product_line", "product_class", "product_size", "list_price", "standard_cost", "product_first_sold_date"
