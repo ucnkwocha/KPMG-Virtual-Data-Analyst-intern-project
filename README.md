@@ -20,6 +20,7 @@ Customer Addresses table contains "customer_id", "address", "postcode", "state",
 The values are complete, with no empty row or error in the relevant columns. I removed the empty columns that were present when the dataset was imported into power BI.
 
 <img width="636" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/1e89a92c-2d6a-45df-90b1-3b754505712e">
+
 To ensure consistency in the state column, i replaced "North south wales" with "NSW " and i also replaced "Victoria" with VIC.
 
 <img width="255" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/e71dced6-7c50-4560-a57b-6dd930d48049">
@@ -39,7 +40,7 @@ I cleaned the empty rows by using replace value option, to replace the empty wit
 # Customer Demopgrapic Data quality assessment
 The Customer Demographic table contains columns which includes details such as name, gender, purchases from the past three years, date of birth, job information, wealth segment, deceased status, car ownership, and tenure.
 
-The Customer demographic table conatins some inconsistent values and empty rows. I also cleaned the empty rows by using replace value option, to replace the empty with "Null" while the empty rows(null or unknown dates) in the DOB column was replaced with '01/01/1900' as default.
+The Customer demographic table cotains some inconsistent values and empty rows. I cleaned the empty rows by using replace value option, to replace the empty with "Null" while the empty rows(null or unknown dates) in the DOB column was replaced with '01/01/1900' as default.
 
 <img width="638" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/cd4f69d7-699f-4916-af81-bad1daf2a25c">
 
@@ -47,8 +48,9 @@ The Customer demographic table conatins some inconsistent values and empty rows.
 
 <img width="493" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/59febbdd-76d9-49c3-a3d1-8f30c814023d">
 
+The genger column has inconsistent values, the replaced value option was used to replace"F" with "Female" and "M" With "Male".
 
-
+<img width="254" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/5d2b70e7-c9d4-4694-bac8-cfd9d9f39e2e">
 
 
 
