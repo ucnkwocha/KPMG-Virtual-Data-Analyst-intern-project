@@ -54,5 +54,8 @@ The genger column has inconsistent values, the replaced value option was used to
 
 
 
+<img width="258" alt="image" src="https://github.com/ucnkwocha/KPMG-Virtual-Data-Analyst-intern-project/assets/155919216/a6fc4a12-1297-4b8b-aaed-d8aa4daf1b53">
 
+The job title with empty values was replaced with "Null"
+The tenure with empty values was replaced with 0
 
